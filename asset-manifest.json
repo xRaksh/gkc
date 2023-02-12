@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/xRaksh/gkc.git/static/css/main.34d174da.css",
-    "main.js": "/xRaksh/gkc.git/static/js/main.067253e4.js",
-    "index.html": "/xRaksh/gkc.git/index.html",
-    "static/media/book.svg": "/xRaksh/gkc.git/static/media/book.2a0d750c27e562eae9a92ffcb0f69568.svg",
-    "main.34d174da.css.map": "/xRaksh/gkc.git/static/css/main.34d174da.css.map",
-    "main.067253e4.js.map": "/xRaksh/gkc.git/static/js/main.067253e4.js.map"
+    "main.css": "/gkc/static/css/main.34d174da.css",
+    "main.js": "/gkc/static/js/main.f2a3170e.js",
+    "index.html": "/gkc/index.html",
+    "static/media/book.svg": "/gkc/static/media/book.2a0d750c27e562eae9a92ffcb0f69568.svg",
+    "main.34d174da.css.map": "/gkc/static/css/main.34d174da.css.map",
+    "main.f2a3170e.js.map": "/gkc/static/js/main.f2a3170e.js.map"
   },
   "entrypoints": [
     "static/css/main.34d174da.css",
-    "static/js/main.067253e4.js"
+    "static/js/main.f2a3170e.js"
   ]
 }
